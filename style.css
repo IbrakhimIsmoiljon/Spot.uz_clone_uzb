@@ -1,0 +1,30 @@
+.navbar {
+  box-shadow: 5px 5px 5px 5px rgb(228, 228, 228);
+}
+
+.em {
+  font-style: italic;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.container .row .col-12 {
+  border-radius: 20px;
+}
+.container .row .col-12 .row a {
+  text-decoration: none;
+}
+.container .row .col-12 .row a .col-lg-1 {
+  margin-left: 15rem;
+}
+.container .row .col-12 .row a .col-lg-11 h3 {
+  margin-top: -4rem;
+  margin-bottom: 3rem;
+}
+
+.container .row .col-12 .form-floating .row .col-5 button {
+  margin-left: -19rem;
+  margin-top: -5rem;
+}/*# sourceMappingURL=style.css.map */
